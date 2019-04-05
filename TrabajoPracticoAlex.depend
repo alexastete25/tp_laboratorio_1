@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1554482255 source:e:\volksvagen\trabajopracticoalex\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1554482452 e:\volksvagen\trabajopracticoalex\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1554482240 source:e:\volksvagen\trabajopracticoalex\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1554482240 source:e:\volksvagen\trabajopracticoalex\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
